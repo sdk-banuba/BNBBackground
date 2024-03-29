@@ -37,7 +37,7 @@ let package = Package(
         .binaryTarget(
             name: "BNBBackground",
             url: "None",
-            checksum: "3e5fa7ffcdc35c1cf28bd821a01f2f3ff51c4c91eb9d13234c25adad6156485c"
+            checksum: "a5d4f6163abe7964a45d57377242836fa9f9fbd024065fa226af44771575a3ef"
         ),
         .target(
             name: "BNBBackground_BNBSdkCore",
